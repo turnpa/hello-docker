@@ -9,5 +9,6 @@ LABEL org.opencontainers.image.description="Serveur HTTP Python simple pour appr
 LABEL org.opencontainers.image.url="https://github.com/turnpa/hello-docker"
 LABEL org.opencontainers.image.source="https://github.com/turnpa/hello-docker"
 LABEL org.opencontainers.image.vendor="turnpa"
+LABEL org.opencontainers.image.licenses="MIT"
 
 CMD ["python", "app.py"]
