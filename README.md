@@ -116,18 +116,6 @@ Ce projet démontre :
 - ✅ Lancement d'un conteneur
 - ✅ Serveur HTTP basique en Python
 
-## 🤝 Contribution
-
-1. Fork le projet
-2. Créez une branche (`git checkout -b feature/amelioration`)
-3. Commitez vos changements (`git commit -m 'Ajout d'une fonctionnalité'`)
-4. Push vers la branche (`git push origin feature/amelioration`)
-5. Ouvrez une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT.
-
 ## 🔗 Liens
 
 - [Repository GitHub](https://github.com/turnpa/hello-docker)
@@ -135,5 +123,3 @@ Ce projet est sous licence MIT.
 - [Documentation Docker](https://docs.docker.com/)
 
 ---
-
-⭐ **Mettez une étoile si ce projet vous aide à apprendre Docker !**
