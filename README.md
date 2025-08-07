@@ -1,5 +1,4 @@
 # hello-docker
-# Mon Projet Docker
 
 ![Project Banner](.github/assets/homelab-logo-dribbble.jpg)
 
