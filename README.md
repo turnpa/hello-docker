@@ -1,4 +1,4 @@
-![Project Banner](.github/assets/homelab-logo-dribbble.jpg)
+![Project Banner](.github/assets/og-image.png)
 
 ## 📋 Description
 
