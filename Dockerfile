@@ -3,6 +3,7 @@ FROM python:3.13.5
 WORKDIR /app
 
 COPY app.py .
+COPY static/ ./static/
 
 EXPOSE 8080
 
